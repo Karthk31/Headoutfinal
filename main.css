@@ -45,7 +45,7 @@ h1::before {
   height: 100%;
   color: black;
   -webkit-text-stroke: 0.3vw red;
-  border-right: 2px solid red;
+  border-right: 2px solid green;
   overflow: hidden;
   animation: animate 10s linear infinite;
 }
